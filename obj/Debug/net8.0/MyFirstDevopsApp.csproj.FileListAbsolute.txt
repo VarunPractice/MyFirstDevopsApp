@@ -12,3 +12,4 @@ C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\refint\My
 C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.pdb
 C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.genruntimeconfig.cache
 C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\ref\MyFirstDevopsApp.dll
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.sourcelink.json
