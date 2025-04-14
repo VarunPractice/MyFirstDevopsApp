@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyFirstDevopsApp/1.0.0": {
+        "runtime": {
+          "MyFirstDevopsApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstDevopsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

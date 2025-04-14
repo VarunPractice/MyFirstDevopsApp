@@ -1,0 +1,14 @@
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\bin\Debug\net8.0\MyFirstDevopsApp.exe
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\bin\Debug\net8.0\MyFirstDevopsApp.deps.json
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\bin\Debug\net8.0\MyFirstDevopsApp.runtimeconfig.json
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\bin\Debug\net8.0\MyFirstDevopsApp.dll
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\bin\Debug\net8.0\MyFirstDevopsApp.pdb
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.AssemblyInfoInputs.cache
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.AssemblyInfo.cs
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.csproj.CoreCompileInputs.cache
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.dll
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\refint\MyFirstDevopsApp.dll
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.pdb
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\MyFirstDevopsApp.genruntimeconfig.cache
+C:\Varun\GitHubCode\MyFirstDevopsApp\MyFirstDevopsApp\obj\Debug\net8.0\ref\MyFirstDevopsApp.dll
