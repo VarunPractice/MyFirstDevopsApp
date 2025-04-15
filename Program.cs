@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World from Devops");
+﻿Console.WriteLine("Hello from Tested CI/CD! Press any key to exit.");
