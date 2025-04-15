@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8FUomp9u57dRlPx6Kk8+2m8AXU4EoTeYZWAyrBD7cO9hBA/H05cJGQmqfHKzWaMopvqMYxqhRw+HAdahvOSsNA==",
+  "dgSpecHash": "wm7Ii0AWOU9K+XQlhkzaLAROFMFBbiW1G4qraNIiFflWGHPfHNPktw75PYJvTips++oFMk7BGtij10pjm3V0vA==",
   "success": true,
-  "projectFilePath": "C:\\Varun\\GitHubCode\\MyFirstDevopsApp\\MyFirstDevopsApp\\MyFirstDevopsApp.csproj",
+  "projectFilePath": "C:\\Varun\\GitHubCode\\DEVOPS\\MyFirstDevopsApp\\MyFirstDevopsApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
